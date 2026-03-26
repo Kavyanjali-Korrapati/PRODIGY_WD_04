@@ -1,4 +1,4 @@
-const apiKey = "16f250ce1ed13e5b44768cc62a45c9f3"; 
+const apiKey = "111116f250ce1ed13e5b44768cc62a45c9f311111111"; #useyourown
 
 document.getElementById("locationBtn").addEventListener("click", getLocationWeather);
 
